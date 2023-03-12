@@ -1,0 +1,114 @@
+Log file created at: 2023/03/12 15:36:48
+Running on machine: dfd238636b80
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20230312 15:36:48.458022  2566 CeresTest.cpp:133] Ceres Solver Report: Iterations: 7, Initial cost: 9.359751e+01, Final cost: 1.944414e-05, Termination: CONVERGENCE
+I20230312 15:36:48.458245  2566 CeresTest.cpp:136] ceres solve converge
+I20230312 15:36:48.458254  2566 CeresTest.cpp:147] point0 gt coodinate under world frame is -2.24833, -0.330799, 4.52615
+I20230312 15:36:48.458266  2566 CeresTest.cpp:148] point0 noisy coodinate under world frame is -2.24845, -0.331886, 4.52684
+I20230312 15:36:48.458272  2566 CeresTest.cpp:149] point0 opt coodinate under world frame is -2.82845, -0.41496, 5.69469
+I20230312 15:36:48.458278  2566 CeresTest.cpp:147] point1 gt coodinate under world frame is 3.44349, 1.49418, 4.26737
+I20230312 15:36:48.458284  2566 CeresTest.cpp:148] point1 noisy coodinate under world frame is 3.44242, 1.49421, 4.26811
+I20230312 15:36:48.458289  2566 CeresTest.cpp:149] point1 opt coodinate under world frame is 4.35164, 1.88571, 5.37718
+I20230312 15:36:48.458295  2566 CeresTest.cpp:147] point2 gt coodinate under world frame is 3.8604, -1.07729, 7.02564
+I20230312 15:36:48.458300  2566 CeresTest.cpp:148] point2 noisy coodinate under world frame is 3.86044, -1.07782, 7.0261
+I20230312 15:36:48.458307  2566 CeresTest.cpp:149] point2 opt coodinate under world frame is 4.86105, -1.35983, 8.8462
+I20230312 15:36:48.458313  2566 CeresTest.cpp:147] point3 gt coodinate under world frame is -3.51549, 3.18125, 4.66603
+I20230312 15:36:48.458319  2566 CeresTest.cpp:148] point3 noisy coodinate under world frame is -3.51528, 3.18337, 4.6664
+I20230312 15:36:48.458324  2566 CeresTest.cpp:149] point3 opt coodinate under world frame is -4.43988, 4.01269, 5.87928
+I20230312 15:36:48.458329  2566 CeresTest.cpp:147] point4 gt coodinate under world frame is -3.59933, -0.284433, 7.65527
+I20230312 15:36:48.458335  2566 CeresTest.cpp:148] point4 noisy coodinate under world frame is -3.59831, -0.28365, 7.65514
+I20230312 15:36:48.458341  2566 CeresTest.cpp:149] point4 opt coodinate under world frame is -4.52905, -0.349956, 9.62655
+I20230312 15:36:48.458348  2566 CeresTest.cpp:147] point5 gt coodinate under world frame is 2.76785, 0.10619, 5.22529
+I20230312 15:36:48.458354  2566 CeresTest.cpp:148] point5 noisy coodinate under world frame is 2.76752, 0.105502, 5.2266
+I20230312 15:36:48.458361  2566 CeresTest.cpp:149] point5 opt coodinate under world frame is 3.48788, 0.136417, 6.59134
+I20230312 15:36:48.458367  2566 CeresTest.cpp:147] point6 gt coodinate under world frame is 3.1259, 1.98634, 5.99392
+I20230312 15:36:48.458374  2566 CeresTest.cpp:148] point6 noisy coodinate under world frame is 3.12496, 1.98367, 5.99315
+I20230312 15:36:48.458379  2566 CeresTest.cpp:149] point6 opt coodinate under world frame is 3.94497, 2.51333, 7.57297
+I20230312 15:36:48.458386  2566 CeresTest.cpp:147] point7 gt coodinate under world frame is 1.21647, -1.45968, 4.95964
+I20230312 15:36:48.458391  2566 CeresTest.cpp:148] point7 noisy coodinate under world frame is 1.21595, -1.4617, 4.95969
+I20230312 15:36:48.458397  2566 CeresTest.cpp:149] point7 opt coodinate under world frame is 1.53253, -1.83568, 6.26844
+I20230312 15:36:48.458403  2566 CeresTest.cpp:147] point8 gt coodinate under world frame is -2.40194, 3.68876, 5.95406
+I20230312 15:36:48.458410  2566 CeresTest.cpp:148] point8 noisy coodinate under world frame is -2.40284, 3.68875, 5.95387
+I20230312 15:36:48.458416  2566 CeresTest.cpp:149] point8 opt coodinate under world frame is -3.01335, 4.64779, 7.48758
+I20230312 15:36:48.458423  2566 CeresTest.cpp:147] point9 gt coodinate under world frame is 3.08519, -0.717496, 4.56808
+I20230312 15:36:48.458429  2566 CeresTest.cpp:148] point9 noisy coodinate under world frame is 3.08451, -0.717569, 4.56894
+I20230312 15:36:48.458436  2566 CeresTest.cpp:149] point9 opt coodinate under world frame is 3.89395, -0.905605, 5.76561
+I20230312 15:36:48.458441  2566 CeresTest.cpp:147] point10 gt coodinate under world frame is 2.88688, 3.27138, 4.86099
+I20230312 15:36:48.458447  2566 CeresTest.cpp:148] point10 noisy coodinate under world frame is 2.88726, 3.27063, 4.8624
+I20230312 15:36:48.458454  2566 CeresTest.cpp:149] point10 opt coodinate under world frame is 3.65051, 4.12397, 6.12501
+I20230312 15:36:48.458460  2566 CeresTest.cpp:147] point11 gt coodinate under world frame is 0.115477, -1.68547, 7.81766
+I20230312 15:36:48.458482  2566 CeresTest.cpp:148] point11 noisy coodinate under world frame is 0.116283, -1.68581, 7.81833
+I20230312 15:36:48.458488  2566 CeresTest.cpp:149] point11 opt coodinate under world frame is 0.155828, -2.12063, 9.82587
+I20230312 15:36:48.458494  2566 CeresTest.cpp:147] point12 gt coodinate under world frame is 3.33307, 1.45639, 5.95577
+I20230312 15:36:48.458499  2566 CeresTest.cpp:148] point12 noisy coodinate under world frame is 3.33428, 1.45644, 5.95549
+I20230312 15:36:48.458505  2566 CeresTest.cpp:149] point12 opt coodinate under world frame is 4.19442, 1.83384, 7.50765
+I20230312 15:36:48.458510  2566 CeresTest.cpp:147] point13 gt coodinate under world frame is -3.99297, 0.930803, 4.61442
+I20230312 15:36:48.458518  2566 CeresTest.cpp:148] point13 noisy coodinate under world frame is -3.99182, 0.929489, 4.61429
+I20230312 15:36:48.458525  2566 CeresTest.cpp:149] point13 opt coodinate under world frame is -5.01652, 1.17536, 5.7952
+I20230312 15:36:48.458534  2566 CeresTest.cpp:147] point14 gt coodinate under world frame is -1.84628, 3.58036, 5.55529
+I20230312 15:36:48.458542  2566 CeresTest.cpp:148] point14 noisy coodinate under world frame is -1.84675, 3.58043, 5.55697
+I20230312 15:36:48.458550  2566 CeresTest.cpp:149] point14 opt coodinate under world frame is -2.32156, 4.50511, 6.99513
+I20230312 15:36:48.458557  2566 CeresTest.cpp:147] point15 gt coodinate under world frame is 2.35816, 1.07774, 4.40655
+I20230312 15:36:48.458564  2566 CeresTest.cpp:148] point15 noisy coodinate under world frame is 2.35815, 1.07733, 4.40623
+I20230312 15:36:48.458571  2566 CeresTest.cpp:149] point15 opt coodinate under world frame is 2.97596, 1.36437, 5.5601
+I20230312 15:36:48.458577  2566 CeresTest.cpp:147] point16 gt coodinate under world frame is -2.7065, 1.62392, 6.35196
+I20230312 15:36:48.458585  2566 CeresTest.cpp:148] point16 noisy coodinate under world frame is -2.70711, 1.62232, 6.35097
+I20230312 15:36:48.458590  2566 CeresTest.cpp:149] point16 opt coodinate under world frame is -3.39665, 2.03847, 7.97945
+I20230312 15:36:48.458597  2566 CeresTest.cpp:147] point17 gt coodinate under world frame is -0.89735, -0.425072, 5.48091
+I20230312 15:36:48.458603  2566 CeresTest.cpp:148] point17 noisy coodinate under world frame is -0.896553, -0.423968, 5.47958
+I20230312 15:36:48.458611  2566 CeresTest.cpp:149] point17 opt coodinate under world frame is -1.12966, -0.527411, 6.90959
+I20230312 15:36:48.458616  2566 CeresTest.cpp:147] point18 gt coodinate under world frame is -1.24946, -2.79685, 6.42256
+I20230312 15:36:48.458623  2566 CeresTest.cpp:148] point18 noisy coodinate under world frame is -1.25043, -2.79528, 6.42272
+I20230312 15:36:48.458629  2566 CeresTest.cpp:149] point18 opt coodinate under world frame is -1.57394, -3.52235, 8.08528
+I20230312 15:36:48.458636  2566 CeresTest.cpp:147] point19 gt coodinate under world frame is 2.01368, -0.506892, 6.8278
+I20230312 15:36:48.458642  2566 CeresTest.cpp:148] point19 noisy coodinate under world frame is 2.01352, -0.505474, 6.82581
+I20230312 15:36:48.458648  2566 CeresTest.cpp:149] point19 opt coodinate under world frame is 2.54358, -0.635018, 8.59944
+I20230312 15:36:48.458654  2566 CeresTest.cpp:166] cam0 gt R under world frame is 
+1 0 0
+0 1 0
+0 0 1
+I20230312 15:36:48.458676  2566 CeresTest.cpp:167] cam0 opt R under world frame is 
+1 0 0
+0 1 0
+0 0 1
+I20230312 15:36:48.458696  2566 CeresTest.cpp:169] cam0 gt t under world frame is 
+0
+0
+0
+I20230312 15:36:48.458709  2566 CeresTest.cpp:170] cam0 opt t under world frame is 
+-0
+-0
+-0
+I20230312 15:36:48.458719  2566 CeresTest.cpp:166] cam1 gt R under world frame is 
+0.866025     -0.5        0
+     0.5 0.866025        0
+       0        0        1
+I20230312 15:36:48.458743  2566 CeresTest.cpp:167] cam1 opt R under world frame is 
+   0.866067    0.499924  0.00197957
+  -0.499926    0.866068 0.000370057
+-0.00152944 -0.00131013    0.999998
+I20230312 15:36:48.458767  2566 CeresTest.cpp:169] cam1 gt t under world frame is 
+ -1.0718
+       4
+0.866025
+I20230312 15:36:48.458781  2566 CeresTest.cpp:170] cam1 opt t under world frame is 
+-1.36943
+ 5.04289
+ 1.10072
+I20230312 15:36:48.458806  2566 CeresTest.cpp:166] cam2 gt R under world frame is 
+      0.5 -0.866025         0
+ 0.866025       0.5         0
+        0         0         1
+I20230312 15:36:48.458832  2566 CeresTest.cpp:167] cam2 opt R under world frame is 
+    0.500056     0.865992   0.00148183
+   -0.865991     0.500058  -0.00152308
+ -0.00205998 -0.000521627     0.999998
+I20230312 15:36:48.458856  2566 CeresTest.cpp:169] cam2 gt t under world frame is 
+      -4
+  6.9282
+0.866025
+I20230312 15:36:48.458868  2566 CeresTest.cpp:170] cam2 opt t under world frame is 
+-5.05414
+ 8.74015
+ 1.09239

@@ -1,0 +1,42 @@
+Log file created at: 2023/03/12 09:59:06
+Running on machine: dfd238636b80
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20230312 09:59:06.031615   207 CeresTest.cpp:65] point0 coodinate under world frame is -2.24833, -0.330799, 4.52615
+I20230312 09:59:06.031791   207 CeresTest.cpp:65] point1 coodinate under world frame is 3.44349, 1.49418, 4.26737
+I20230312 09:59:06.031798   207 CeresTest.cpp:65] point2 coodinate under world frame is 3.8604, -1.07729, 7.02564
+I20230312 09:59:06.031817   207 CeresTest.cpp:65] point3 coodinate under world frame is -3.51549, 3.18125, 4.66603
+I20230312 09:59:06.031837   207 CeresTest.cpp:65] point4 coodinate under world frame is -3.59933, -0.284433, 7.65527
+I20230312 09:59:06.031841   207 CeresTest.cpp:65] point5 coodinate under world frame is 2.76785, 0.10619, 5.22529
+I20230312 09:59:06.031845   207 CeresTest.cpp:65] point6 coodinate under world frame is 3.1259, 1.98634, 5.99392
+I20230312 09:59:06.031848   207 CeresTest.cpp:65] point7 coodinate under world frame is 1.21647, -1.45968, 4.95964
+I20230312 09:59:06.031852   207 CeresTest.cpp:65] point8 coodinate under world frame is -2.40194, 3.68876, 5.95406
+I20230312 09:59:06.031857   207 CeresTest.cpp:65] point9 coodinate under world frame is 3.08519, -0.717496, 4.56808
+I20230312 09:59:06.031862   207 CeresTest.cpp:65] point10 coodinate under world frame is 2.88688, 3.27138, 4.86099
+I20230312 09:59:06.031867   207 CeresTest.cpp:65] point11 coodinate under world frame is 0.115477, -1.68547, 7.81766
+I20230312 09:59:06.031869   207 CeresTest.cpp:65] point12 coodinate under world frame is 3.33307, 1.45639, 5.95577
+I20230312 09:59:06.031873   207 CeresTest.cpp:65] point13 coodinate under world frame is -3.99297, 0.930803, 4.61442
+I20230312 09:59:06.031881   207 CeresTest.cpp:65] point14 coodinate under world frame is -1.84628, 3.58036, 5.55529
+I20230312 09:59:06.031885   207 CeresTest.cpp:65] point15 coodinate under world frame is 2.35816, 1.07774, 4.40655
+I20230312 09:59:06.031890   207 CeresTest.cpp:65] point16 coodinate under world frame is -2.7065, 1.62392, 6.35196
+I20230312 09:59:06.031894   207 CeresTest.cpp:65] point17 coodinate under world frame is -0.89735, -0.425072, 5.48091
+I20230312 09:59:06.031899   207 CeresTest.cpp:65] point18 coodinate under world frame is -1.24946, -2.79685, 6.42256
+I20230312 09:59:06.031903   207 CeresTest.cpp:65] point19 coodinate under world frame is 2.01368, -0.506892, 6.8278
+I20230312 09:59:06.031922   207 CeresTest.cpp:68] cam0 R under world frame is 1 0 0
+0 1 0
+0 0 1
+I20230312 09:59:06.031934   207 CeresTest.cpp:69] cam0 t under world frame is 0
+0
+0
+I20230312 09:59:06.031939   207 CeresTest.cpp:68] cam1 R under world frame is 0.866025     -0.5        0
+     0.5 0.866025        0
+       0        0        1
+I20230312 09:59:06.031949   207 CeresTest.cpp:69] cam1 t under world frame is  -1.0718
+       4
+0.866025
+I20230312 09:59:06.031955   207 CeresTest.cpp:68] cam2 R under world frame is       0.5 -0.866025         0
+ 0.866025       0.5         0
+        0         0         1
+I20230312 09:59:06.031965   207 CeresTest.cpp:69] cam2 t under world frame is       -4
+  6.9282
+0.866025

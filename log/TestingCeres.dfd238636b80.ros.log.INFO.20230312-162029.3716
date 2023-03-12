@@ -1,0 +1,396 @@
+Log file created at: 2023/03/12 16:20:29
+Running on machine: dfd238636b80
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20230312 16:20:29.606107  3716 CeresTest.cpp:128] point0 being added to ceres problem is 
+-2.24833 -0.330799 4.52615
+I20230312 16:20:29.606307  3716 CeresTest.cpp:129] cam0 inputting t is 
+-0 -0 -0
+I20230312 16:20:29.606324  3716 CeresTest.cpp:128] point0 being added to ceres problem is 
+-2.24833 -0.330799 4.52615
+I20230312 16:20:29.606334  3716 CeresTest.cpp:129] cam1 inputting t is 
+-1.0718 -4 -0.866025
+I20230312 16:20:29.606344  3716 CeresTest.cpp:128] point0 being added to ceres problem is 
+-2.24833 -0.330799 4.52615
+I20230312 16:20:29.606353  3716 CeresTest.cpp:129] cam2 inputting t is 
+-4 -6.9282 -0.866025
+I20230312 16:20:29.606364  3716 CeresTest.cpp:128] point1 being added to ceres problem is 
+3.44349 1.49418 4.26737
+I20230312 16:20:29.606372  3716 CeresTest.cpp:129] cam0 inputting t is 
+-0 -0 -0
+I20230312 16:20:29.606381  3716 CeresTest.cpp:128] point1 being added to ceres problem is 
+3.44349 1.49418 4.26737
+I20230312 16:20:29.606390  3716 CeresTest.cpp:129] cam1 inputting t is 
+-1.0718 -4 -0.866025
+I20230312 16:20:29.606400  3716 CeresTest.cpp:128] point1 being added to ceres problem is 
+3.44349 1.49418 4.26737
+I20230312 16:20:29.606408  3716 CeresTest.cpp:129] cam2 inputting t is 
+-4 -6.9282 -0.866025
+I20230312 16:20:29.606418  3716 CeresTest.cpp:128] point2 being added to ceres problem is 
+3.8604 -1.07729 7.02564
+I20230312 16:20:29.606427  3716 CeresTest.cpp:129] cam0 inputting t is 
+-0 -0 -0
+I20230312 16:20:29.606436  3716 CeresTest.cpp:128] point2 being added to ceres problem is 
+3.8604 -1.07729 7.02564
+I20230312 16:20:29.606444  3716 CeresTest.cpp:129] cam1 inputting t is 
+-1.0718 -4 -0.866025
+I20230312 16:20:29.606454  3716 CeresTest.cpp:128] point2 being added to ceres problem is 
+3.8604 -1.07729 7.02564
+I20230312 16:20:29.606463  3716 CeresTest.cpp:129] cam2 inputting t is 
+-4 -6.9282 -0.866025
+I20230312 16:20:29.606472  3716 CeresTest.cpp:128] point3 being added to ceres problem is 
+-3.51549 3.18125 4.66603
+I20230312 16:20:29.606482  3716 CeresTest.cpp:129] cam0 inputting t is 
+-0 -0 -0
+I20230312 16:20:29.606489  3716 CeresTest.cpp:128] point3 being added to ceres problem is 
+-3.51549 3.18125 4.66603
+I20230312 16:20:29.606498  3716 CeresTest.cpp:129] cam1 inputting t is 
+-1.0718 -4 -0.866025
+I20230312 16:20:29.606508  3716 CeresTest.cpp:128] point3 being added to ceres problem is 
+-3.51549 3.18125 4.66603
+I20230312 16:20:29.606516  3716 CeresTest.cpp:129] cam2 inputting t is 
+-4 -6.9282 -0.866025
+I20230312 16:20:29.606525  3716 CeresTest.cpp:128] point4 being added to ceres problem is 
+-3.59933 -0.284433 7.65527
+I20230312 16:20:29.606534  3716 CeresTest.cpp:129] cam0 inputting t is 
+-0 -0 -0
+I20230312 16:20:29.606544  3716 CeresTest.cpp:128] point4 being added to ceres problem is 
+-3.59933 -0.284433 7.65527
+I20230312 16:20:29.606552  3716 CeresTest.cpp:129] cam1 inputting t is 
+-1.0718 -4 -0.866025
+I20230312 16:20:29.606561  3716 CeresTest.cpp:128] point4 being added to ceres problem is 
+-3.59933 -0.284433 7.65527
+I20230312 16:20:29.606570  3716 CeresTest.cpp:129] cam2 inputting t is 
+-4 -6.9282 -0.866025
+I20230312 16:20:29.606581  3716 CeresTest.cpp:128] point5 being added to ceres problem is 
+2.76785 0.10619 5.22529
+I20230312 16:20:29.606590  3716 CeresTest.cpp:129] cam0 inputting t is 
+-0 -0 -0
+I20230312 16:20:29.606598  3716 CeresTest.cpp:128] point5 being added to ceres problem is 
+2.76785 0.10619 5.22529
+I20230312 16:20:29.606606  3716 CeresTest.cpp:129] cam1 inputting t is 
+-1.0718 -4 -0.866025
+I20230312 16:20:29.606614  3716 CeresTest.cpp:128] point5 being added to ceres problem is 
+2.76785 0.10619 5.22529
+I20230312 16:20:29.606622  3716 CeresTest.cpp:129] cam2 inputting t is 
+-4 -6.9282 -0.866025
+I20230312 16:20:29.606632  3716 CeresTest.cpp:128] point6 being added to ceres problem is 
+3.1259 1.98634 5.99392
+I20230312 16:20:29.606640  3716 CeresTest.cpp:129] cam0 inputting t is 
+-0 -0 -0
+I20230312 16:20:29.606649  3716 CeresTest.cpp:128] point6 being added to ceres problem is 
+3.1259 1.98634 5.99392
+I20230312 16:20:29.606657  3716 CeresTest.cpp:129] cam1 inputting t is 
+-1.0718 -4 -0.866025
+I20230312 16:20:29.606667  3716 CeresTest.cpp:128] point6 being added to ceres problem is 
+3.1259 1.98634 5.99392
+I20230312 16:20:29.606674  3716 CeresTest.cpp:129] cam2 inputting t is 
+-4 -6.9282 -0.866025
+I20230312 16:20:29.606695  3716 CeresTest.cpp:128] point7 being added to ceres problem is 
+1.21647 -1.45968 4.95964
+I20230312 16:20:29.606704  3716 CeresTest.cpp:129] cam0 inputting t is 
+-0 -0 -0
+I20230312 16:20:29.606714  3716 CeresTest.cpp:128] point7 being added to ceres problem is 
+1.21647 -1.45968 4.95964
+I20230312 16:20:29.606721  3716 CeresTest.cpp:129] cam1 inputting t is 
+-1.0718 -4 -0.866025
+I20230312 16:20:29.606730  3716 CeresTest.cpp:128] point7 being added to ceres problem is 
+1.21647 -1.45968 4.95964
+I20230312 16:20:29.606738  3716 CeresTest.cpp:129] cam2 inputting t is 
+-4 -6.9282 -0.866025
+I20230312 16:20:29.606747  3716 CeresTest.cpp:128] point8 being added to ceres problem is 
+-2.40194 3.68876 5.95406
+I20230312 16:20:29.606755  3716 CeresTest.cpp:129] cam0 inputting t is 
+-0 -0 -0
+I20230312 16:20:29.606765  3716 CeresTest.cpp:128] point8 being added to ceres problem is 
+-2.40194 3.68876 5.95406
+I20230312 16:20:29.606773  3716 CeresTest.cpp:129] cam1 inputting t is 
+-1.0718 -4 -0.866025
+I20230312 16:20:29.606783  3716 CeresTest.cpp:128] point8 being added to ceres problem is 
+-2.40194 3.68876 5.95406
+I20230312 16:20:29.606792  3716 CeresTest.cpp:129] cam2 inputting t is 
+-4 -6.9282 -0.866025
+I20230312 16:20:29.606801  3716 CeresTest.cpp:128] point9 being added to ceres problem is 
+3.08519 -0.717496 4.56808
+I20230312 16:20:29.606809  3716 CeresTest.cpp:129] cam0 inputting t is 
+-0 -0 -0
+I20230312 16:20:29.606818  3716 CeresTest.cpp:128] point9 being added to ceres problem is 
+3.08519 -0.717496 4.56808
+I20230312 16:20:29.606827  3716 CeresTest.cpp:129] cam1 inputting t is 
+-1.0718 -4 -0.866025
+I20230312 16:20:29.606835  3716 CeresTest.cpp:128] point9 being added to ceres problem is 
+3.08519 -0.717496 4.56808
+I20230312 16:20:29.606843  3716 CeresTest.cpp:129] cam2 inputting t is 
+-4 -6.9282 -0.866025
+I20230312 16:20:29.606853  3716 CeresTest.cpp:128] point10 being added to ceres problem is 
+2.88688 3.27138 4.86099
+I20230312 16:20:29.606860  3716 CeresTest.cpp:129] cam0 inputting t is 
+-0 -0 -0
+I20230312 16:20:29.606868  3716 CeresTest.cpp:128] point10 being added to ceres problem is 
+2.88688 3.27138 4.86099
+I20230312 16:20:29.606875  3716 CeresTest.cpp:129] cam1 inputting t is 
+-1.0718 -4 -0.866025
+I20230312 16:20:29.606884  3716 CeresTest.cpp:128] point10 being added to ceres problem is 
+2.88688 3.27138 4.86099
+I20230312 16:20:29.606891  3716 CeresTest.cpp:129] cam2 inputting t is 
+-4 -6.9282 -0.866025
+I20230312 16:20:29.606899  3716 CeresTest.cpp:128] point11 being added to ceres problem is 
+0.115477 -1.68547 7.81766
+I20230312 16:20:29.606905  3716 CeresTest.cpp:129] cam0 inputting t is 
+-0 -0 -0
+I20230312 16:20:29.606912  3716 CeresTest.cpp:128] point11 being added to ceres problem is 
+0.115477 -1.68547 7.81766
+I20230312 16:20:29.606920  3716 CeresTest.cpp:129] cam1 inputting t is 
+-1.0718 -4 -0.866025
+I20230312 16:20:29.606930  3716 CeresTest.cpp:128] point11 being added to ceres problem is 
+0.115477 -1.68547 7.81766
+I20230312 16:20:29.606936  3716 CeresTest.cpp:129] cam2 inputting t is 
+-4 -6.9282 -0.866025
+I20230312 16:20:29.606945  3716 CeresTest.cpp:128] point12 being added to ceres problem is 
+3.33307 1.45639 5.95577
+I20230312 16:20:29.606953  3716 CeresTest.cpp:129] cam0 inputting t is 
+-0 -0 -0
+I20230312 16:20:29.606961  3716 CeresTest.cpp:128] point12 being added to ceres problem is 
+3.33307 1.45639 5.95577
+I20230312 16:20:29.606969  3716 CeresTest.cpp:129] cam1 inputting t is 
+-1.0718 -4 -0.866025
+I20230312 16:20:29.606981  3716 CeresTest.cpp:128] point12 being added to ceres problem is 
+3.33307 1.45639 5.95577
+I20230312 16:20:29.606989  3716 CeresTest.cpp:129] cam2 inputting t is 
+-4 -6.9282 -0.866025
+I20230312 16:20:29.606999  3716 CeresTest.cpp:128] point13 being added to ceres problem is 
+-3.99297 0.930803 4.61442
+I20230312 16:20:29.607008  3716 CeresTest.cpp:129] cam0 inputting t is 
+-0 -0 -0
+I20230312 16:20:29.607017  3716 CeresTest.cpp:128] point13 being added to ceres problem is 
+-3.99297 0.930803 4.61442
+I20230312 16:20:29.607033  3716 CeresTest.cpp:129] cam1 inputting t is 
+-1.0718 -4 -0.866025
+I20230312 16:20:29.607041  3716 CeresTest.cpp:128] point13 being added to ceres problem is 
+-3.99297 0.930803 4.61442
+I20230312 16:20:29.607048  3716 CeresTest.cpp:129] cam2 inputting t is 
+-4 -6.9282 -0.866025
+I20230312 16:20:29.607056  3716 CeresTest.cpp:128] point14 being added to ceres problem is 
+-1.84628 3.58036 5.55529
+I20230312 16:20:29.607065  3716 CeresTest.cpp:129] cam0 inputting t is 
+-0 -0 -0
+I20230312 16:20:29.607072  3716 CeresTest.cpp:128] point14 being added to ceres problem is 
+-1.84628 3.58036 5.55529
+I20230312 16:20:29.607081  3716 CeresTest.cpp:129] cam1 inputting t is 
+-1.0718 -4 -0.866025
+I20230312 16:20:29.607090  3716 CeresTest.cpp:128] point14 being added to ceres problem is 
+-1.84628 3.58036 5.55529
+I20230312 16:20:29.607098  3716 CeresTest.cpp:129] cam2 inputting t is 
+-4 -6.9282 -0.866025
+I20230312 16:20:29.607107  3716 CeresTest.cpp:128] point15 being added to ceres problem is 
+2.35816 1.07774 4.40655
+I20230312 16:20:29.607117  3716 CeresTest.cpp:129] cam0 inputting t is 
+-0 -0 -0
+I20230312 16:20:29.607125  3716 CeresTest.cpp:128] point15 being added to ceres problem is 
+2.35816 1.07774 4.40655
+I20230312 16:20:29.607133  3716 CeresTest.cpp:129] cam1 inputting t is 
+-1.0718 -4 -0.866025
+I20230312 16:20:29.607141  3716 CeresTest.cpp:128] point15 being added to ceres problem is 
+2.35816 1.07774 4.40655
+I20230312 16:20:29.607149  3716 CeresTest.cpp:129] cam2 inputting t is 
+-4 -6.9282 -0.866025
+I20230312 16:20:29.607157  3716 CeresTest.cpp:128] point16 being added to ceres problem is 
+-2.7065 1.62392 6.35196
+I20230312 16:20:29.607165  3716 CeresTest.cpp:129] cam0 inputting t is 
+-0 -0 -0
+I20230312 16:20:29.607174  3716 CeresTest.cpp:128] point16 being added to ceres problem is 
+-2.7065 1.62392 6.35196
+I20230312 16:20:29.607182  3716 CeresTest.cpp:129] cam1 inputting t is 
+-1.0718 -4 -0.866025
+I20230312 16:20:29.607192  3716 CeresTest.cpp:128] point16 being added to ceres problem is 
+-2.7065 1.62392 6.35196
+I20230312 16:20:29.607201  3716 CeresTest.cpp:129] cam2 inputting t is 
+-4 -6.9282 -0.866025
+I20230312 16:20:29.607211  3716 CeresTest.cpp:128] point17 being added to ceres problem is 
+-0.89735 -0.425072 5.48091
+I20230312 16:20:29.607220  3716 CeresTest.cpp:129] cam0 inputting t is 
+-0 -0 -0
+I20230312 16:20:29.607229  3716 CeresTest.cpp:128] point17 being added to ceres problem is 
+-0.89735 -0.425072 5.48091
+I20230312 16:20:29.607239  3716 CeresTest.cpp:129] cam1 inputting t is 
+-1.0718 -4 -0.866025
+I20230312 16:20:29.607249  3716 CeresTest.cpp:128] point17 being added to ceres problem is 
+-0.89735 -0.425072 5.48091
+I20230312 16:20:29.607256  3716 CeresTest.cpp:129] cam2 inputting t is 
+-4 -6.9282 -0.866025
+I20230312 16:20:29.607265  3716 CeresTest.cpp:128] point18 being added to ceres problem is 
+-1.24946 -2.79685 6.42256
+I20230312 16:20:29.607273  3716 CeresTest.cpp:129] cam0 inputting t is 
+-0 -0 -0
+I20230312 16:20:29.607281  3716 CeresTest.cpp:128] point18 being added to ceres problem is 
+-1.24946 -2.79685 6.42256
+I20230312 16:20:29.607290  3716 CeresTest.cpp:129] cam1 inputting t is 
+-1.0718 -4 -0.866025
+I20230312 16:20:29.607298  3716 CeresTest.cpp:128] point18 being added to ceres problem is 
+-1.24946 -2.79685 6.42256
+I20230312 16:20:29.607306  3716 CeresTest.cpp:129] cam2 inputting t is 
+-4 -6.9282 -0.866025
+I20230312 16:20:29.607314  3716 CeresTest.cpp:128] point19 being added to ceres problem is 
+2.01368 -0.506892 6.8278
+I20230312 16:20:29.607323  3716 CeresTest.cpp:129] cam0 inputting t is 
+-0 -0 -0
+I20230312 16:20:29.607331  3716 CeresTest.cpp:128] point19 being added to ceres problem is 
+2.01368 -0.506892 6.8278
+I20230312 16:20:29.607340  3716 CeresTest.cpp:129] cam1 inputting t is 
+-1.0718 -4 -0.866025
+I20230312 16:20:29.607349  3716 CeresTest.cpp:128] point19 being added to ceres problem is 
+2.01368 -0.506892 6.8278
+I20230312 16:20:29.607358  3716 CeresTest.cpp:129] cam2 inputting t is 
+-4 -6.9282 -0.866025
+I20230312 16:20:29.608152  3716 CeresTest.cpp:139] 
+Solver Summary (v 2.0.0-eigen-(3.3.7)-lapack-eigensparse-no_openmp)
+
+                                     Original                  Reduced
+Parameter blocks                           26                       24
+Parameters                                 81                       74
+Effective parameters                       78                       72
+Residual blocks                            60                       60
+Residuals                                 120                      120
+
+Minimizer                        TRUST_REGION
+
+Dense linear algebra library            EIGEN
+Trust region strategy     LEVENBERG_MARQUARDT
+
+                                        Given                     Used
+Linear solver                     DENSE_SCHUR              DENSE_SCHUR
+Threads                                     1                        1
+Linear solver ordering              AUTOMATIC                     20,4
+Schur structure                         2,3,3                    2,3,3
+
+Cost:
+Initial                          9.360603e+01
+Final                            2.635997e-22
+Change                           9.360603e+01
+
+Minimizer iterations                        8
+Successful steps                            8
+Unsuccessful steps                          0
+
+Time (in seconds):
+Preprocessor                         0.000130
+
+  Residual only evaluation           0.000035 (7)
+  Jacobian & residual evaluation     0.000283 (8)
+  Linear solver                      0.000212 (7)
+Minimizer                            0.000642
+
+Postprocessor                        0.000004
+Total                                0.000776
+
+Termination:                      CONVERGENCE (Gradient tolerance reached. Gradient max norm: 3.671562e-11 <= 1.000000e-10)
+
+I20230312 16:20:29.608223  3716 CeresTest.cpp:142] ceres solve converge
+I20230312 16:20:29.608234  3716 CeresTest.cpp:153] point0 gt coodinate under world frame is -2.24833, -0.330799, 4.52615
+I20230312 16:20:29.608244  3716 CeresTest.cpp:154] point0 noisy coodinate under world frame is -2.24833, -0.330799, 4.52615
+I20230312 16:20:29.608251  3716 CeresTest.cpp:155] point0 opt coodinate under world frame is -2.83357, -0.416906, 5.70431
+I20230312 16:20:29.608260  3716 CeresTest.cpp:153] point1 gt coodinate under world frame is 3.44349, 1.49418, 4.26737
+I20230312 16:20:29.608268  3716 CeresTest.cpp:154] point1 noisy coodinate under world frame is 3.44349, 1.49418, 4.26737
+I20230312 16:20:29.608275  3716 CeresTest.cpp:155] point1 opt coodinate under world frame is 4.33984, 1.88312, 5.37817
+I20230312 16:20:29.608283  3716 CeresTest.cpp:153] point2 gt coodinate under world frame is 3.8604, -1.07729, 7.02564
+I20230312 16:20:29.608290  3716 CeresTest.cpp:154] point2 noisy coodinate under world frame is 3.8604, -1.07729, 7.02564
+I20230312 16:20:29.608297  3716 CeresTest.cpp:155] point2 opt coodinate under world frame is 4.86527, -1.35771, 8.85443
+I20230312 16:20:29.608305  3716 CeresTest.cpp:153] point3 gt coodinate under world frame is -3.51549, 3.18125, 4.66603
+I20230312 16:20:29.608314  3716 CeresTest.cpp:154] point3 noisy coodinate under world frame is -3.51549, 3.18125, 4.66603
+I20230312 16:20:29.608320  3716 CeresTest.cpp:155] point3 opt coodinate under world frame is -4.43057, 4.00933, 5.8806
+I20230312 16:20:29.608328  3716 CeresTest.cpp:153] point4 gt coodinate under world frame is -3.59933, -0.284433, 7.65527
+I20230312 16:20:29.608335  3716 CeresTest.cpp:154] point4 noisy coodinate under world frame is -3.59933, -0.284433, 7.65527
+I20230312 16:20:29.608343  3716 CeresTest.cpp:155] point4 opt coodinate under world frame is -4.53624, -0.358472, 9.64795
+I20230312 16:20:29.608350  3716 CeresTest.cpp:153] point5 gt coodinate under world frame is 2.76785, 0.10619, 5.22529
+I20230312 16:20:29.608358  3716 CeresTest.cpp:154] point5 noisy coodinate under world frame is 2.76785, 0.10619, 5.22529
+I20230312 16:20:29.608366  3716 CeresTest.cpp:155] point5 opt coodinate under world frame is 3.48833, 0.133831, 6.58544
+I20230312 16:20:29.608373  3716 CeresTest.cpp:153] point6 gt coodinate under world frame is 3.1259, 1.98634, 5.99392
+I20230312 16:20:29.608381  3716 CeresTest.cpp:154] point6 noisy coodinate under world frame is 3.1259, 1.98634, 5.99392
+I20230312 16:20:29.608394  3716 CeresTest.cpp:155] point6 opt coodinate under world frame is 3.93958, 2.50339, 7.55415
+I20230312 16:20:29.608403  3716 CeresTest.cpp:153] point7 gt coodinate under world frame is 1.21647, -1.45968, 4.95964
+I20230312 16:20:29.608410  3716 CeresTest.cpp:154] point7 noisy coodinate under world frame is 1.21647, -1.45968, 4.95964
+I20230312 16:20:29.608418  3716 CeresTest.cpp:155] point7 opt coodinate under world frame is 1.53312, -1.83964, 6.25065
+I20230312 16:20:29.608426  3716 CeresTest.cpp:153] point8 gt coodinate under world frame is -2.40194, 3.68876, 5.95406
+I20230312 16:20:29.608436  3716 CeresTest.cpp:154] point8 noisy coodinate under world frame is -2.40194, 3.68876, 5.95406
+I20230312 16:20:29.608443  3716 CeresTest.cpp:155] point8 opt coodinate under world frame is -3.02717, 4.64895, 7.50391
+I20230312 16:20:29.608451  3716 CeresTest.cpp:153] point9 gt coodinate under world frame is 3.08519, -0.717496, 4.56808
+I20230312 16:20:29.608459  3716 CeresTest.cpp:154] point9 noisy coodinate under world frame is 3.08519, -0.717496, 4.56808
+I20230312 16:20:29.608466  3716 CeresTest.cpp:155] point9 opt coodinate under world frame is 3.88827, -0.904261, 5.75716
+I20230312 16:20:29.608475  3716 CeresTest.cpp:153] point10 gt coodinate under world frame is 2.88688, 3.27138, 4.86099
+I20230312 16:20:29.608484  3716 CeresTest.cpp:154] point10 noisy coodinate under world frame is 2.88688, 3.27138, 4.86099
+I20230312 16:20:29.608490  3716 CeresTest.cpp:155] point10 opt coodinate under world frame is 3.63834, 4.12292, 6.12632
+I20230312 16:20:29.608498  3716 CeresTest.cpp:153] point11 gt coodinate under world frame is 0.115477, -1.68547, 7.81766
+I20230312 16:20:29.608506  3716 CeresTest.cpp:154] point11 noisy coodinate under world frame is 0.115477, -1.68547, 7.81766
+I20230312 16:20:29.608515  3716 CeresTest.cpp:155] point11 opt coodinate under world frame is 0.145536, -2.1242, 9.85261
+I20230312 16:20:29.608523  3716 CeresTest.cpp:153] point12 gt coodinate under world frame is 3.33307, 1.45639, 5.95577
+I20230312 16:20:29.608530  3716 CeresTest.cpp:154] point12 noisy coodinate under world frame is 3.33307, 1.45639, 5.95577
+I20230312 16:20:29.608538  3716 CeresTest.cpp:155] point12 opt coodinate under world frame is 4.20067, 1.83549, 7.50607
+I20230312 16:20:29.608547  3716 CeresTest.cpp:153] point13 gt coodinate under world frame is -3.99297, 0.930803, 4.61442
+I20230312 16:20:29.608554  3716 CeresTest.cpp:154] point13 noisy coodinate under world frame is -3.99297, 0.930803, 4.61442
+I20230312 16:20:29.608561  3716 CeresTest.cpp:155] point13 opt coodinate under world frame is -5.03234, 1.17309, 5.81556
+I20230312 16:20:29.608569  3716 CeresTest.cpp:153] point14 gt coodinate under world frame is -1.84628, 3.58036, 5.55529
+I20230312 16:20:29.608577  3716 CeresTest.cpp:154] point14 noisy coodinate under world frame is -1.84628, 3.58036, 5.55529
+I20230312 16:20:29.608584  3716 CeresTest.cpp:155] point14 opt coodinate under world frame is -2.32687, 4.51233, 7.00134
+I20230312 16:20:29.608592  3716 CeresTest.cpp:153] point15 gt coodinate under world frame is 2.35816, 1.07774, 4.40655
+I20230312 16:20:29.608601  3716 CeresTest.cpp:154] point15 noisy coodinate under world frame is 2.35816, 1.07774, 4.40655
+I20230312 16:20:29.608608  3716 CeresTest.cpp:155] point15 opt coodinate under world frame is 2.97199, 1.35828, 5.55358
+I20230312 16:20:29.608615  3716 CeresTest.cpp:153] point16 gt coodinate under world frame is -2.7065, 1.62392, 6.35196
+I20230312 16:20:29.608623  3716 CeresTest.cpp:154] point16 noisy coodinate under world frame is -2.7065, 1.62392, 6.35196
+I20230312 16:20:29.608630  3716 CeresTest.cpp:155] point16 opt coodinate under world frame is -3.411, 2.04662, 8.00538
+I20230312 16:20:29.608639  3716 CeresTest.cpp:153] point17 gt coodinate under world frame is -0.89735, -0.425072, 5.48091
+I20230312 16:20:29.608647  3716 CeresTest.cpp:154] point17 noisy coodinate under world frame is -0.89735, -0.425072, 5.48091
+I20230312 16:20:29.608659  3716 CeresTest.cpp:155] point17 opt coodinate under world frame is -1.13093, -0.535719, 6.90759
+I20230312 16:20:29.608669  3716 CeresTest.cpp:153] point18 gt coodinate under world frame is -1.24946, -2.79685, 6.42256
+I20230312 16:20:29.608676  3716 CeresTest.cpp:154] point18 noisy coodinate under world frame is -1.24946, -2.79685, 6.42256
+I20230312 16:20:29.608683  3716 CeresTest.cpp:155] point18 opt coodinate under world frame is -1.5747, -3.52487, 8.09436
+I20230312 16:20:29.608692  3716 CeresTest.cpp:153] point19 gt coodinate under world frame is 2.01368, -0.506892, 6.8278
+I20230312 16:20:29.608701  3716 CeresTest.cpp:154] point19 noisy coodinate under world frame is 2.01368, -0.506892, 6.8278
+I20230312 16:20:29.608708  3716 CeresTest.cpp:155] point19 opt coodinate under world frame is 2.53784, -0.638837, 8.60509
+I20230312 16:20:29.608717  3716 CeresTest.cpp:173] cam0 gt R under world frame is 
+1 0 0
+0 1 0
+0 0 1
+I20230312 16:20:29.608742  3716 CeresTest.cpp:174] cam0 opt R under world frame is 
+1 0 0
+0 1 0
+0 0 1
+I20230312 16:20:29.608765  3716 CeresTest.cpp:176] cam0 gt t under world frame is 
+0
+0
+0
+I20230312 16:20:29.608788  3716 CeresTest.cpp:177] cam0 opt t under world frame is 
+0
+0
+0
+I20230312 16:20:29.608799  3716 CeresTest.cpp:173] cam1 gt R under world frame is 
+0.866025     -0.5        0
+     0.5 0.866025        0
+       0        0        1
+I20230312 16:20:29.608824  3716 CeresTest.cpp:174] cam1 opt R under world frame is 
+    0.866025         -0.5  2.04712e-12
+         0.5     0.866025  4.02382e-12
+-3.78476e-12 -2.46117e-12            1
+I20230312 16:20:29.608850  3716 CeresTest.cpp:176] cam1 gt t under world frame is 
+ -1.0718
+       4
+0.866025
+I20230312 16:20:29.608865  3716 CeresTest.cpp:177] cam1 opt t under world frame is 
+ 3.69042
+-3.69042
+-1.09145
+I20230312 16:20:29.608877  3716 CeresTest.cpp:173] cam2 gt R under world frame is 
+      0.5 -0.866025         0
+ 0.866025       0.5         0
+        0         0         1
+I20230312 16:20:29.608901  3716 CeresTest.cpp:174] cam2 opt R under world frame is 
+         0.5    -0.866025    8.451e-12
+    0.866025          0.5  2.51016e-11
+-2.59642e-11 -5.23203e-12            1
+I20230312 16:20:29.608927  3716 CeresTest.cpp:176] cam2 gt t under world frame is 
+      -4
+  6.9282
+0.866025
+I20230312 16:20:29.608940  3716 CeresTest.cpp:177] cam2 opt t under world frame is 
+     10.0824
+-2.34504e-10
+    -1.09145

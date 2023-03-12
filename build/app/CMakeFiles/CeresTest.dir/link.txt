@@ -1,0 +1,1 @@
+/usr/bin/c++   -fopenmp  -fopenmp -DNDEBUG -Wno-reorder -O2    -rdynamic CMakeFiles/CeresTest.dir/CeresTest.cpp.o  -o CeresTest  -Wl,-rpath,/usr/local/lib /usr/local/lib/libceres.a /usr/local/lib/libglog.so.0.7.0 /usr/lib/x86_64-linux-gnu/libgflags.so.2.2.2 -lpthread -lopenblas 

@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\cmake",
+    "\\thirdparty\\Sophus",
+    "\\thirdparty\\Sophus\\sophus",
+    "\\utils"
+  ],
+  "SelectedNode": "\\app\\CMakeLists.txt",
+  "PreviewInSolutionExplorer": false
+}

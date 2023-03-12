@@ -1,0 +1,5 @@
+Log file created at: 2023/03/11 10:47:30
+Running on machine: 786231442daa
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20230311 10:47:30.605906   467 CeresTest.cpp:9] info test
