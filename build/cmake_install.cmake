@@ -1,4 +1,4 @@
-# Install script for directory: /home/ros/dev_workspace/hw_course5_new
+# Install script for directory: /home/dev/test/MCVIO-main/hw_course5_new
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,10 +39,10 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/ros/dev_workspace/hw_course5_new/build/frontend/cmake_install.cmake")
-  include("/home/ros/dev_workspace/hw_course5_new/build/backend/cmake_install.cmake")
-  include("/home/ros/dev_workspace/hw_course5_new/build/utils/cmake_install.cmake")
-  include("/home/ros/dev_workspace/hw_course5_new/build/app/cmake_install.cmake")
+  include("/home/dev/test/MCVIO-main/hw_course5_new/build/frontend/cmake_install.cmake")
+  include("/home/dev/test/MCVIO-main/hw_course5_new/build/backend/cmake_install.cmake")
+  include("/home/dev/test/MCVIO-main/hw_course5_new/build/utils/cmake_install.cmake")
+  include("/home/dev/test/MCVIO-main/hw_course5_new/build/app/cmake_install.cmake")
 
 endif()
 
@@ -54,5 +54,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/ros/dev_workspace/hw_course5_new/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/dev/test/MCVIO-main/hw_course5_new/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

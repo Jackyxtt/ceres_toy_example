@@ -1,4 +1,4 @@
-# Install script for directory: /home/ros/dev_workspace/hw_course5_new/frontend
+# Install script for directory: /home/dev/test/MCVIO-main/hw_course5_new/frontend
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

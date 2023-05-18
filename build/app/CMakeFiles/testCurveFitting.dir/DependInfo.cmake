@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/ros/dev_workspace/hw_course5_new/app/CurveFitting.cpp" "/home/ros/dev_workspace/hw_course5_new/build/app/CMakeFiles/testCurveFitting.dir/CurveFitting.cpp.o"
+  "/home/dev/test/MCVIO-main/hw_course5_new/app/CurveFitting.cpp" "/home/dev/test/MCVIO-main/hw_course5_new/build/app/CMakeFiles/testCurveFitting.dir/CurveFitting.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -16,14 +16,14 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/usr/include/eigen3"
-  "/usr/include/opencv4"
+  "/usr/include/opencv"
   "../thirdparty/Sophus"
   "../"
   )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/ros/dev_workspace/hw_course5_new/build/backend/CMakeFiles/slam_course_backend.dir/DependInfo.cmake"
+  "/home/dev/test/MCVIO-main/hw_course5_new/build/backend/CMakeFiles/slam_course_backend.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

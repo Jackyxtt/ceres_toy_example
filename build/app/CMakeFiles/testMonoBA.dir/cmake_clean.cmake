@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/testMonoBA.dir/TestMonoBA.cpp.o"
-  "testMonoBA"
   "testMonoBA.pdb"
+  "testMonoBA"
 )
 
 # Per-language clean rules from dependency scanning.

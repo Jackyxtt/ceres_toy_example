@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/ros/dev_workspace/hw_course5_new/app/CeresTest.cpp" "/home/ros/dev_workspace/hw_course5_new/build/app/CMakeFiles/CeresTest.dir/CeresTest.cpp.o"
+  "/home/dev/test/MCVIO-main/hw_course5_new/app/CeresTest.cpp" "/home/dev/test/MCVIO-main/hw_course5_new/build/app/CMakeFiles/CeresTest.dir/CeresTest.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -12,16 +12,16 @@ set(CMAKE_CXX_COMPILER_ID "GNU")
 set(CMAKE_TARGET_DEFINITIONS_CXX
   "CERES_EXPORT_INTERNAL_SYMBOLS"
   "GFLAGS_IS_A_DLL=0"
-  "GLOG_CUSTOM_PREFIX_SUPPORT"
   "USE_OPENMP"
   )
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "/usr/include/opencv4"
+  "/usr/include/eigen3"
+  "/usr/include/opencv"
   "../thirdparty/Sophus"
   "../"
-  "/usr/include/eigen3"
+  "/usr/local/include"
   )
 
 # Targets to which this target links.

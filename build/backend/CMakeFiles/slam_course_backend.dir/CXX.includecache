@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-../backend/edge.h
+..//backend/edge.h
 memory
 -
 string
@@ -14,7 +14,7 @@ string
 backend/eigen_types.h
 ../backend/backend/eigen_types.h
 
-../backend/edge_imu.h
+..//backend/edge_imu.h
 memory
 -
 string
@@ -28,7 +28,7 @@ backend/edge.h
 backend/imu_integration.h
 ../backend/backend/imu_integration.h
 
-../backend/edge_reprojection.h
+..//backend/edge_reprojection.h
 memory
 -
 string
@@ -40,7 +40,7 @@ backend/eigen_types.h
 backend/edge.h
 ../backend/backend/edge.h
 
-../backend/eigen_types.h
+..//backend/eigen_types.h
 Eigen/Core
 -
 Eigen/Geometry
@@ -50,17 +50,17 @@ vector
 map
 -
 
-../backend/imu_integration.h
+..//backend/imu_integration.h
 backend/eigen_types.h
 ../backend/backend/eigen_types.h
 sophus/so3.hpp
 ../backend/sophus/so3.hpp
 
-../backend/loss_function.h
+..//backend/loss_function.h
 backend/eigen_types.h
 ../backend/backend/eigen_types.h
 
-../backend/problem.h
+..//backend/problem.h
 unordered_map
 -
 map
@@ -74,25 +74,33 @@ backend/edge.h
 backend/vertex.h
 ../backend/backend/vertex.h
 
-../backend/vertex.h
+..//backend/vertex.h
 backend/eigen_types.h
 -
 
-../backend/vertex_motion.h
+..//backend/vertex_motion.h
 memory
 -
 backend/vertex.h
 ../backend/backend/vertex.h
 
-../backend/vertex_point_xyz.h
+..//backend/vertex_point_xyz.h
 backend/vertex.h
 ../backend/backend/vertex.h
 
-../backend/vertex_pose.h
+..//backend/vertex_pose.h
 memory
 -
 backend/vertex.h
 ../backend/backend/vertex.h
+
+..//utils/tic_toc.h
+ctime
+-
+cstdlib
+-
+chrono
+-
 
 ../thirdparty/Sophus/sophus/se3.hpp
 so3.hpp
@@ -112,45 +120,37 @@ Eigen/Eigen
 Eigen/Geometry
 -
 
-../utils/tic_toc.h
-ctime
--
-cstdlib
--
-chrono
--
-
-/home/ros/dev_workspace/hw_course5_new/backend/edge.cc
+/home/dev/test/MCVIO-main/hw_course5_new/backend/edge.cc
 backend/vertex.h
-/home/ros/dev_workspace/hw_course5_new/backend/backend/vertex.h
+/home/dev/test/MCVIO-main/hw_course5_new/backend/backend/vertex.h
 backend/edge.h
-/home/ros/dev_workspace/hw_course5_new/backend/backend/edge.h
+/home/dev/test/MCVIO-main/hw_course5_new/backend/backend/edge.h
 iostream
 -
 
-/home/ros/dev_workspace/hw_course5_new/backend/edge_imu.cc
+/home/dev/test/MCVIO-main/hw_course5_new/backend/edge_imu.cc
 sophus/se3.hpp
 -
 backend/vertex_pose.h
-/home/ros/dev_workspace/hw_course5_new/backend/backend/vertex_pose.h
+/home/dev/test/MCVIO-main/hw_course5_new/backend/backend/vertex_pose.h
 backend/vertex_motion.h
-/home/ros/dev_workspace/hw_course5_new/backend/backend/vertex_motion.h
+/home/dev/test/MCVIO-main/hw_course5_new/backend/backend/vertex_motion.h
 backend/edge_imu.h
-/home/ros/dev_workspace/hw_course5_new/backend/backend/edge_imu.h
+/home/dev/test/MCVIO-main/hw_course5_new/backend/backend/edge_imu.h
 iostream
 -
 
-/home/ros/dev_workspace/hw_course5_new/backend/edge_prior.cpp
+/home/dev/test/MCVIO-main/hw_course5_new/backend/edge_prior.cpp
 sophus/se3.hpp
 -
 edge_prior.h
-/home/ros/dev_workspace/hw_course5_new/backend/edge_prior.h
+/home/dev/test/MCVIO-main/hw_course5_new/backend/edge_prior.h
 backend/vertex_pose.h
-/home/ros/dev_workspace/hw_course5_new/backend/backend/vertex_pose.h
+/home/dev/test/MCVIO-main/hw_course5_new/backend/backend/vertex_pose.h
 iostream
 -
 
-/home/ros/dev_workspace/hw_course5_new/backend/edge_prior.h
+/home/dev/test/MCVIO-main/hw_course5_new/backend/edge_prior.h
 memory
 -
 string
@@ -158,41 +158,41 @@ string
 Eigen/Dense
 -
 backend/eigen_types.h
-/home/ros/dev_workspace/hw_course5_new/backend/backend/eigen_types.h
+/home/dev/test/MCVIO-main/hw_course5_new/backend/backend/eigen_types.h
 backend/edge.h
-/home/ros/dev_workspace/hw_course5_new/backend/backend/edge.h
+/home/dev/test/MCVIO-main/hw_course5_new/backend/backend/edge.h
 
-/home/ros/dev_workspace/hw_course5_new/backend/edge_reprojection.cc
+/home/dev/test/MCVIO-main/hw_course5_new/backend/edge_reprojection.cc
 sophus/so3.hpp
 -
 sophus/se3.hpp
 -
 backend/vertex_pose.h
-/home/ros/dev_workspace/hw_course5_new/backend/backend/vertex_pose.h
+/home/dev/test/MCVIO-main/hw_course5_new/backend/backend/vertex_pose.h
 backend/vertex_point_xyz.h
-/home/ros/dev_workspace/hw_course5_new/backend/backend/vertex_point_xyz.h
+/home/dev/test/MCVIO-main/hw_course5_new/backend/backend/vertex_point_xyz.h
 backend/edge_reprojection.h
-/home/ros/dev_workspace/hw_course5_new/backend/backend/edge_reprojection.h
+/home/dev/test/MCVIO-main/hw_course5_new/backend/backend/edge_reprojection.h
 backend/eigen_types.h
-/home/ros/dev_workspace/hw_course5_new/backend/backend/eigen_types.h
+/home/dev/test/MCVIO-main/hw_course5_new/backend/backend/eigen_types.h
 iostream
 -
 
-/home/ros/dev_workspace/hw_course5_new/backend/imu_integration.cc
+/home/dev/test/MCVIO-main/hw_course5_new/backend/imu_integration.cc
 imu_integration.h
-/home/ros/dev_workspace/hw_course5_new/backend/imu_integration.h
+/home/dev/test/MCVIO-main/hw_course5_new/backend/imu_integration.h
 
-/home/ros/dev_workspace/hw_course5_new/backend/imu_integration.h
+/home/dev/test/MCVIO-main/hw_course5_new/backend/imu_integration.h
 backend/eigen_types.h
-/home/ros/dev_workspace/hw_course5_new/backend/backend/eigen_types.h
+/home/dev/test/MCVIO-main/hw_course5_new/backend/backend/eigen_types.h
 sophus/so3.hpp
-/home/ros/dev_workspace/hw_course5_new/backend/sophus/so3.hpp
+/home/dev/test/MCVIO-main/hw_course5_new/backend/sophus/so3.hpp
 
-/home/ros/dev_workspace/hw_course5_new/backend/loss_function.cc
+/home/dev/test/MCVIO-main/hw_course5_new/backend/loss_function.cc
 backend/loss_function.h
-/home/ros/dev_workspace/hw_course5_new/backend/backend/loss_function.h
+/home/dev/test/MCVIO-main/hw_course5_new/backend/backend/loss_function.h
 
-/home/ros/dev_workspace/hw_course5_new/backend/problem.cc
+/home/dev/test/MCVIO-main/hw_course5_new/backend/problem.cc
 iostream
 -
 fstream
@@ -202,37 +202,33 @@ eigen3/Eigen/Dense
 glog/logging.h
 -
 backend/problem.h
-/home/ros/dev_workspace/hw_course5_new/backend/backend/problem.h
+/home/dev/test/MCVIO-main/hw_course5_new/backend/backend/problem.h
 utils/tic_toc.h
-/home/ros/dev_workspace/hw_course5_new/backend/utils/tic_toc.h
+/home/dev/test/MCVIO-main/hw_course5_new/backend/utils/tic_toc.h
 omp.h
 -
 
-/home/ros/dev_workspace/hw_course5_new/backend/vertex.cc
+/home/dev/test/MCVIO-main/hw_course5_new/backend/vertex.cc
 backend/vertex.h
-/home/ros/dev_workspace/hw_course5_new/backend/backend/vertex.h
+/home/dev/test/MCVIO-main/hw_course5_new/backend/backend/vertex.h
 iostream
 -
 
-/home/ros/dev_workspace/hw_course5_new/backend/vertex_pose.cc
+/home/dev/test/MCVIO-main/hw_course5_new/backend/vertex_pose.cc
 backend/vertex_pose.h
-/home/ros/dev_workspace/hw_course5_new/backend/backend/vertex_pose.h
+/home/dev/test/MCVIO-main/hw_course5_new/backend/backend/vertex_pose.h
 sophus/so3.hpp
-/home/ros/dev_workspace/hw_course5_new/backend/sophus/so3.hpp
+/home/dev/test/MCVIO-main/hw_course5_new/backend/sophus/so3.hpp
 
 /usr/include/eigen3/Eigen/Cholesky
 Core
 /usr/include/eigen3/Eigen/Core
-Jacobi
-/usr/include/eigen3/Eigen/Jacobi
 src/Core/util/DisableStupidWarnings.h
 /usr/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h
 src/Cholesky/LLT.h
 /usr/include/eigen3/Eigen/src/Cholesky/LLT.h
 src/Cholesky/LDLT.h
 /usr/include/eigen3/Eigen/src/Cholesky/LDLT.h
-mkl_lapacke.h
-/usr/include/eigen3/Eigen/mkl_lapacke.h
 src/misc/lapacke.h
 /usr/include/eigen3/Eigen/src/misc/lapacke.h
 src/Cholesky/LLT_LAPACKE.h
@@ -243,7 +239,7 @@ src/Core/util/ReenableStupidWarnings.h
 /usr/include/eigen3/Eigen/Core
 src/Core/util/DisableStupidWarnings.h
 /usr/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h
-cuda_runtime.h
+math_functions.hpp
 -
 new
 -
@@ -363,8 +359,6 @@ src/Core/arch/AVX/Complex.h
 /usr/include/eigen3/Eigen/src/Core/arch/AVX/Complex.h
 src/Core/arch/AVX/TypeCasting.h
 /usr/include/eigen3/Eigen/src/Core/arch/AVX/TypeCasting.h
-src/Core/arch/SSE/TypeCasting.h
-/usr/include/eigen3/Eigen/src/Core/arch/SSE/TypeCasting.h
 src/Core/arch/SSE/PacketMath.h
 /usr/include/eigen3/Eigen/src/Core/arch/SSE/PacketMath.h
 src/Core/arch/SSE/MathFunctions.h
@@ -649,8 +643,6 @@ src/Eigenvalues/GeneralizedEigenSolver.h
 /usr/include/eigen3/Eigen/src/Eigenvalues/GeneralizedEigenSolver.h
 src/Eigenvalues/MatrixBaseEigenvalues.h
 /usr/include/eigen3/Eigen/src/Eigenvalues/MatrixBaseEigenvalues.h
-mkl_lapacke.h
-/usr/include/eigen3/Eigen/mkl_lapacke.h
 src/misc/lapacke.h
 /usr/include/eigen3/Eigen/src/misc/lapacke.h
 src/Eigenvalues/RealSchur_LAPACKE.h
@@ -771,8 +763,6 @@ src/LU/FullPivLU.h
 /usr/include/eigen3/Eigen/src/LU/FullPivLU.h
 src/LU/PartialPivLU.h
 /usr/include/eigen3/Eigen/src/LU/PartialPivLU.h
-mkl_lapacke.h
-/usr/include/eigen3/Eigen/mkl_lapacke.h
 src/misc/lapacke.h
 /usr/include/eigen3/Eigen/src/misc/lapacke.h
 src/LU/PartialPivLU_LAPACKE.h
@@ -817,8 +807,6 @@ src/QR/ColPivHouseholderQR.h
 /usr/include/eigen3/Eigen/src/QR/ColPivHouseholderQR.h
 src/QR/CompleteOrthogonalDecomposition.h
 /usr/include/eigen3/Eigen/src/QR/CompleteOrthogonalDecomposition.h
-mkl_lapacke.h
-/usr/include/eigen3/Eigen/mkl_lapacke.h
 src/misc/lapacke.h
 /usr/include/eigen3/Eigen/src/misc/lapacke.h
 src/QR/HouseholderQR_LAPACKE.h
@@ -847,8 +835,6 @@ src/SVD/JacobiSVD.h
 /usr/include/eigen3/Eigen/src/SVD/JacobiSVD.h
 src/SVD/BDCSVD.h
 /usr/include/eigen3/Eigen/src/SVD/BDCSVD.h
-mkl_lapacke.h
-/usr/include/eigen3/Eigen/mkl_lapacke.h
 src/misc/lapacke.h
 /usr/include/eigen3/Eigen/src/misc/lapacke.h
 src/SVD/JacobiSVD_LAPACKE.h
@@ -1328,27 +1314,41 @@ cstdint
 
 /usr/include/eigen3/Eigen/src/Core/util/XprHelper.h
 
+/usr/include/eigen3/Eigen/src/Eigenvalues/./ComplexSchur.h
+./HessenbergDecomposition.h
+/usr/include/eigen3/Eigen/src/Eigenvalues/././HessenbergDecomposition.h
+
+/usr/include/eigen3/Eigen/src/Eigenvalues/./HessenbergDecomposition.h
+
+/usr/include/eigen3/Eigen/src/Eigenvalues/./RealQZ.h
+
+/usr/include/eigen3/Eigen/src/Eigenvalues/./RealSchur.h
+./HessenbergDecomposition.h
+/usr/include/eigen3/Eigen/src/Eigenvalues/././HessenbergDecomposition.h
+
+/usr/include/eigen3/Eigen/src/Eigenvalues/./Tridiagonalization.h
+
 /usr/include/eigen3/Eigen/src/Eigenvalues/ComplexEigenSolver.h
 ./ComplexSchur.h
-/usr/include/eigen3/Eigen/src/Eigenvalues/ComplexSchur.h
+/usr/include/eigen3/Eigen/src/Eigenvalues/./ComplexSchur.h
 
 /usr/include/eigen3/Eigen/src/Eigenvalues/ComplexSchur.h
 ./HessenbergDecomposition.h
-/usr/include/eigen3/Eigen/src/Eigenvalues/HessenbergDecomposition.h
+/usr/include/eigen3/Eigen/src/Eigenvalues/./HessenbergDecomposition.h
 
 /usr/include/eigen3/Eigen/src/Eigenvalues/ComplexSchur_LAPACKE.h
 
 /usr/include/eigen3/Eigen/src/Eigenvalues/EigenSolver.h
 ./RealSchur.h
-/usr/include/eigen3/Eigen/src/Eigenvalues/RealSchur.h
+/usr/include/eigen3/Eigen/src/Eigenvalues/./RealSchur.h
 
 /usr/include/eigen3/Eigen/src/Eigenvalues/GeneralizedEigenSolver.h
 ./RealQZ.h
-/usr/include/eigen3/Eigen/src/Eigenvalues/RealQZ.h
+/usr/include/eigen3/Eigen/src/Eigenvalues/./RealQZ.h
 
 /usr/include/eigen3/Eigen/src/Eigenvalues/GeneralizedSelfAdjointEigenSolver.h
 ./Tridiagonalization.h
-/usr/include/eigen3/Eigen/src/Eigenvalues/Tridiagonalization.h
+/usr/include/eigen3/Eigen/src/Eigenvalues/./Tridiagonalization.h
 
 /usr/include/eigen3/Eigen/src/Eigenvalues/HessenbergDecomposition.h
 
@@ -1358,13 +1358,13 @@ cstdint
 
 /usr/include/eigen3/Eigen/src/Eigenvalues/RealSchur.h
 ./HessenbergDecomposition.h
-/usr/include/eigen3/Eigen/src/Eigenvalues/HessenbergDecomposition.h
+/usr/include/eigen3/Eigen/src/Eigenvalues/./HessenbergDecomposition.h
 
 /usr/include/eigen3/Eigen/src/Eigenvalues/RealSchur_LAPACKE.h
 
 /usr/include/eigen3/Eigen/src/Eigenvalues/SelfAdjointEigenSolver.h
 ./Tridiagonalization.h
-/usr/include/eigen3/Eigen/src/Eigenvalues/Tridiagonalization.h
+/usr/include/eigen3/Eigen/src/Eigenvalues/./Tridiagonalization.h
 
 /usr/include/eigen3/Eigen/src/Eigenvalues/SelfAdjointEigenSolver_LAPACKE.h
 

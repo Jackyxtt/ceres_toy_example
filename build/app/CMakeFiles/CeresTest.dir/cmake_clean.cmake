@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/CeresTest.dir/CeresTest.cpp.o"
-  "CeresTest"
   "CeresTest.pdb"
+  "CeresTest"
 )
 
 # Per-language clean rules from dependency scanning.
